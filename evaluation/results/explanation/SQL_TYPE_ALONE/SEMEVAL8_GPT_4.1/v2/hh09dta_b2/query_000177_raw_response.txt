@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The predicted count of adults (4) does not match the gold count (2). The debt reference average was calculated over households from every state instead of only Oaxaca households with reported values, so a different set of households exceeds it."
+}

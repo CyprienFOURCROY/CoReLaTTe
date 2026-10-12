@@ -1,0 +1,1 @@
+The prediction is empty (header only), whereas the gold answer has three states (16.0, 25.0 and 11.0). Land use was filtered on response code 2 instead of 1, so no household with a plot is selected and no state reaches 20 households.

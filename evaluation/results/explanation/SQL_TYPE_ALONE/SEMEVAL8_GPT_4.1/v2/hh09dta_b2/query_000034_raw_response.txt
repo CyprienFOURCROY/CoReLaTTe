@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The post-2005 counts are lower than in the gold answer for every state (e.g. state 11.0: 17 vs 20) and the set of states differs: state 3.0 is missing while state 26.0 appears. Households that moved in during 2005 were excluded ('> 2005' instead of '>= 2005'), which also shifts the cross-state average used as the cut-off."
+}

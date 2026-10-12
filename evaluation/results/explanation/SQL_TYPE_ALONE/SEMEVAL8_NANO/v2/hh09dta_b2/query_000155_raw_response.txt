@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The gold answer is empty (no Oaxaca household has both a motor vehicle and financial assets), but the prediction returns 14780.5. Households with either asset were accepted instead of requiring both, so a value is produced for a group that should be empty."
+}

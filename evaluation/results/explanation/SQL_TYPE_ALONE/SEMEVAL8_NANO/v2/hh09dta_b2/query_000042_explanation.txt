@@ -1,0 +1,1 @@
+The prediction lists 8 households with amounts that do not match the gold amounts (gold: 069840AP00 with 60000.0, 034390AP00 with 50000.0, ...), and three gold households are missing. The code used the debt amount column instead of the expense on workers (su237), so both the amounts and the set of households above the average are wrong.

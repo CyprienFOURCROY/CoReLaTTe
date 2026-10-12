@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The predicted average (5412.83) differs from the gold value (6097.67). The prediction compares against the average of all farming households rather than the average among households that lost their total crop, so a different set of households is retained before averaging."
+}

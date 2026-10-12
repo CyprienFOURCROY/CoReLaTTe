@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The denominators match the gold answer but the numerators are higher in most states (e.g. state 20: 40 vs 31). Members who merely answered the appliance question were counted as owning an appliance (non-null instead of equal to 1), so the numerator population is too large."
+}

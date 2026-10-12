@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The prediction is empty (header only) while the gold answer has two states (10.0 with 113 households and 25.0 with 108). Only households answering 'very safe' were kept instead of 'safe or very safe', so no state reaches the 100-household threshold."
+}

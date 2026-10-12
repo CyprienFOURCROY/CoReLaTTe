@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The prediction lists 17 states with counts that are all higher than the gold counts (e.g. Veracruz 648 vs 620), and includes an extra state (13.0, 58 households) absent from the gold answer. Households with any su01 value other than 'uses a plot' were counted as not farming, so the filter is too permissive."
+}

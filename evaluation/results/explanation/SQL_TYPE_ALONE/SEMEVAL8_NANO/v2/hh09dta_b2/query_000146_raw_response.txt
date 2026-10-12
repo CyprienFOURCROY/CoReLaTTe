@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The predicted count (41) is far above the gold count (2). Both answers 1 and 2 of the participation question were accepted although only 1 means participation, so households that did not take part were counted."
+}

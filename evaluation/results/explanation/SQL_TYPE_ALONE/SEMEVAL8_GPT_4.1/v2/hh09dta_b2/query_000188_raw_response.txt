@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The total household counts match the gold answer but the numerators are far too large (e.g. state 10.0: 21 vs 7, and state 20.0: 12 with only 9 households in total). The household list was joined with the member-level table, so each household is repeated once per member and the 60+ flag is summed over duplicated rows."
+}

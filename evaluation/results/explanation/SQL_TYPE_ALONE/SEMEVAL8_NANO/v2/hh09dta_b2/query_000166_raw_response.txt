@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The prediction returns two groups (1 adult: 6120.0 over 18 households, 2 adults: 4800.5 over 9) while the gold answer has a single group with 275 households and an average of 5033.53. The households that participate in the program were selected instead of those with no participation, so the population is completely different."
+}

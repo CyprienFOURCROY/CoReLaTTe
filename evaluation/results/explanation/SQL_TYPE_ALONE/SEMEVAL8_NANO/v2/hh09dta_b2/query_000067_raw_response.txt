@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The prediction is empty (header only) while the gold answer lists 10 states (e.g. 15.0 with 90 individuals aged 18-24). The 18-24 counts were compared with the average of the total number of individuals, a much larger quantity, so no state is above it."
+}

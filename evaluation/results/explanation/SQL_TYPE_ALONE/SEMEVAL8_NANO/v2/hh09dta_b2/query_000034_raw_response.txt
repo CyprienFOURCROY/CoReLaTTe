@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The prediction contains the 8 gold states plus three additional states (21.0, 26.0 and 5.0) that have fewer than 30 households. The minimum-30-households condition was applied after averaging instead of before, which lowers the average cut-off and lets small states through."
+}

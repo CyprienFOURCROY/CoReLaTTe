@@ -1,0 +1,15 @@
+.env
+
+.DS_Store
+__pycache__/
+
+
+
+
+scritp/
+
+main.ipynb
+main2.ipynb
+main3.ipynb
+main4.ipynb
+main5.ipynb

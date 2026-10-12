@@ -1,0 +1,1 @@
+The prediction is empty (header only) while the gold answer lists 16 households with their counts and safety answers. The safety answers were mapped to codes 5 and 6, which do not exist (unsafe and very unsafe are 3 and 4), so no household is selected.

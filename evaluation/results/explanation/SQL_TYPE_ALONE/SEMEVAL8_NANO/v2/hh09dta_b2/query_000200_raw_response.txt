@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The predicted count (4) does not match the gold count (1). The average debt used as the threshold was computed over households in all states instead of only Oaxaca households with a reported value, which shifts the cut-off and lets more households through."
+}

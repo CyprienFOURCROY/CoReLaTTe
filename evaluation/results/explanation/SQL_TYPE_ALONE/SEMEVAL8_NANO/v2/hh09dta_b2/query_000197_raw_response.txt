@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The gold answer is empty (no Oaxaca household exceeds the average among all land-using households), but the prediction returns two households (9000.0 and 6500.0). The average was computed only among Oaxaca households, a lower reference than the average over all land-using households, so households appear where there should be none."
+}

@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "Neither the average ages nor the counts match the gold answer (gold: 54.83 and 6 for the no-poultry group, 48.0 and 2 for the poultry group). The prediction averages the age of all robbed-household adults in each group and counts adults older than their own group's mean, instead of restricting to adults older than the overall mean age before computing the group mean and count."
+}

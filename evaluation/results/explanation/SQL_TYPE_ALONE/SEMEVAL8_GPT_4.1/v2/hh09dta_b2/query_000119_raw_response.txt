@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The prediction returns 13 household IDs while the gold answer has 16; 003460AP00, 004830AP00 and 006290AP00 are missing. The adult-member condition was applied to individual 1 only instead of to any household member, so the filter is too strict."
+}

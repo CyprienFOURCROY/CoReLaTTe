@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The prediction is empty (header only), whereas the gold answer lists 37 households with the amounts they paid. The 'owes money' condition used the wrong response code, so no household also reports payments and the result contains nothing."
+}

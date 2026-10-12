@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The gold answer has a single state (code 5.0 with 2 qualifying adults), but the prediction returns two states (Coahuila 3, Durango 3). All household members were counted instead of only adults aged 18 or older, which changes the per-state counts and the cross-state average, so an extra state passes the cut-off."
+}

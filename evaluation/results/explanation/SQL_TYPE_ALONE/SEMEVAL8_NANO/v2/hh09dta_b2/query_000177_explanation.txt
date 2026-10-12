@@ -1,0 +1,1 @@
+The predicted count (9) is higher than the gold count (2). Adults were joined with the owner records and debt records without de-duplication, so each adult is counted several times.

@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The predicted count (4) differs from the gold count (3). The average age was computed over all adults in Oaxaca instead of the group of adults in safe, vehicle-owning households, so the age cut-off is wrong and one additional adult is counted."
+}

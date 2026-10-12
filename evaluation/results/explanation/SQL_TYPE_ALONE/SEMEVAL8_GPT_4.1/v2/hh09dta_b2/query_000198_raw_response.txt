@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The prediction returns 9 states with counts roughly three times larger than the gold counts, and states 20.0 and 26.0 are missing. Households were not de-duplicated before the join, so each household is counted once per matching member row, which inflates every count and shifts which states pass the average cut-off."
+}

@@ -1,0 +1,1 @@
+The prediction returns a single overall average (20124.9) and a total of 138 households, whereas the question asks for the average and the household count separately for households that own at least one motor vehicle and those that do not (gold: 17 households at 18470.59 and 121 households at 20356.94). The required breakdown by group is missing.

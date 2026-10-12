@@ -1,0 +1,1 @@
+The gold answer is 0 households, but the prediction returns 2. The reference fuel-expense average was computed only over the households already satisfying all three conditions instead of over all land-using households in Oaxaca and Puebla, which lowers the threshold and lets households through that should be excluded.

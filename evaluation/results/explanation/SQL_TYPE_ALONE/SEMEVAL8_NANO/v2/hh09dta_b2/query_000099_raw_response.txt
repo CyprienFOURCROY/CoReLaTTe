@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The predicted average number of adults (1.67) differs from the gold value (1.0). The bull/cow value reference average was computed over every household with a recorded value instead of only among households that produced or sold fattening animals, so a different set of high-value households is selected."
+}

@@ -1,0 +1,1 @@
+The predicted average (47.3) differs from the gold value (42.6). Oaxaca households with an adult OR with egg production were averaged instead of only those meeting both conditions, so many unrelated households enter the average.

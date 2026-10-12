@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The prediction has the same states as the gold answer, but the household counts are about three times larger (e.g. state 5.0: 12 instead of 4) and the averages are lower. The requirement of a positive amount from the Other Government Program was not applied, so many extra households are included."
+}

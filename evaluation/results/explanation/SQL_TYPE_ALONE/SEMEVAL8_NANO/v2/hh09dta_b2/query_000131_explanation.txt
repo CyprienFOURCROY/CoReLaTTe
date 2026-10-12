@@ -1,0 +1,1 @@
+The prediction is empty (header only), whereas the gold answer has four states (10.0, 16.0, 25.0 and 11.0). The condition on meat production was reversed (households that did produce or sell meat were selected instead of those that did not), so no state reaches 25 households.

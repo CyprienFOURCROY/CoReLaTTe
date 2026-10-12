@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The predicted count (17) does not match the gold count (0). Households with a death and only one of the two age conditions (a person aged 65 or older, or a person under 18) were counted instead of requiring both in the same household, so households are counted where none should be."
+}

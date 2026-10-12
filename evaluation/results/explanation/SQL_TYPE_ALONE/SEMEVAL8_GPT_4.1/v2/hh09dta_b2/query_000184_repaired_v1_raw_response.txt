@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The prediction returns 9 states with 16 households, versus 7 states with 10 households in the gold answer. Two extra states (25.0 and 15.0) appear and states 9.0, 14.0 and 11.0 have higher counts, because the requirement that payments exceed the average borrowed amount was left out."
+}

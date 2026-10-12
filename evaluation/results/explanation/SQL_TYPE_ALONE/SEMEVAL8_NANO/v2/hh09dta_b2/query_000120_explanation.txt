@@ -1,0 +1,1 @@
+The gold answer is empty (no household satisfies all conditions), but the prediction returns an average of 23100.0. The household-size condition (larger than the overall average size) was not applied, so households qualify and a value is produced where none should exist.

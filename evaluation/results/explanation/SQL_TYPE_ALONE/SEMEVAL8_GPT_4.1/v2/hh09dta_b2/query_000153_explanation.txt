@@ -1,0 +1,1 @@
+The predicted average (3250.0) is lower than the gold value (4000.0). Households with zero debt were kept in the senior-household debt average, which lowers the above-average cut-off and lets additional households into the final average.

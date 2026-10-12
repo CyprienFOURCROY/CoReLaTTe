@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The gold answer is empty, since no state has at least 30 individuals with an above-average age, but the prediction returns one state (Michoacán, 14 individuals). The minimum-individuals threshold was relaxed, so a state is returned where none should be."
+}

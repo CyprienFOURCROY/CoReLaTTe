@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The predicted count (2) is lower than the gold count (3). Only households answering 'very unsafe' were kept instead of 'unsafe' or 'very unsafe', so a qualifying household is missed."
+}

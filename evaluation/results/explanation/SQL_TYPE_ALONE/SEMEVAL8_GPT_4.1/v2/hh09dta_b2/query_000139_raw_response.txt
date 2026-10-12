@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The predicted average (1.6667) is higher than the gold value (1.25). The statewide reference average was computed only among households that own a non-agricultural business, whereas it should be computed over all Oaxaca households with an adult before restricting to business owners, so the at-or-above cut-off and the retained households differ."
+}

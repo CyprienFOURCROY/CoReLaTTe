@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The prediction gives a single total (37 adults) instead of the number of adults for each state (gold: five states with 1 adult each). The breakdown by state is missing and the 'greater than $5,000' debt threshold was not applied, so the figure does not correspond to any gold row."
+}

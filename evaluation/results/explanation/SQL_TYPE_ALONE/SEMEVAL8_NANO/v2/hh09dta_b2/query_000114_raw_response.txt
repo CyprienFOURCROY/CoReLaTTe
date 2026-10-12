@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The prediction returns only 2 households while the gold answer lists 8. The average used as the cut-off was computed over all Oaxaca indebted households instead of the group of farming adult households, which raises the threshold and drops six qualifying households."
+}

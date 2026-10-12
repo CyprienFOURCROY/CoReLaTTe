@@ -1,0 +1,1 @@
+The gold answer is empty (no state qualifies), but the prediction returns state 25.0 with an average debt of 6200.0. Missing debt values were replaced by 0 and households without a reported debt were kept, so a state is returned where the correct answer has none.

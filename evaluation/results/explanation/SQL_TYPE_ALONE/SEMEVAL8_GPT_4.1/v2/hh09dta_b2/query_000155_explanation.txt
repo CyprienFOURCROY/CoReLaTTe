@@ -1,0 +1,1 @@
+The gold answer is empty because no Oaxaca household has both a motor vehicle and financial assets, but the prediction returns 11250.0. Households with either asset were accepted instead of requiring both.

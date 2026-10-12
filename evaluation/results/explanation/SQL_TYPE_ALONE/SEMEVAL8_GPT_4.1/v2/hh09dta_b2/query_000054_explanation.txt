@@ -1,0 +1,1 @@
+The prediction gives an average of 15216.84 over 19 households, whereas the gold answer is 16673.33 over 15 households. The overall Oaxaca average age was computed over individuals rather than over households, so the age cut-off is wrong and extra households are included.

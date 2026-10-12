@@ -1,0 +1,1 @@
+The prediction returns a single overall pair of numbers, but the question asks for the counts by state (the gold answer has one row per state with the dairy household count and the Liconsa count). The required breakdown by state is missing, so the output cannot be matched to the gold rows.

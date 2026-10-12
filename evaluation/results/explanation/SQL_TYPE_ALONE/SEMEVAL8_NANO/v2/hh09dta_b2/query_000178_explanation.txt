@@ -1,0 +1,1 @@
+The gold answer is empty (no household has both a senior aged 70+ and a child under 12 and received Liconsa milk), but the prediction returns three states with 22 to 38 households. Households with a senior or a child were kept instead of requiring both in the same household.

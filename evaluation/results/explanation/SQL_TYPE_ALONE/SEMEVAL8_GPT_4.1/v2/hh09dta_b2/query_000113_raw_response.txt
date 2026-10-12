@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The prediction reports 207 valid answers and 14 unsafe/very unsafe adults, versus 215 and 15 in the gold answer. Adults aged exactly 18 were excluded ('> 18' instead of '>= 18'), so both counts are slightly too low."
+}

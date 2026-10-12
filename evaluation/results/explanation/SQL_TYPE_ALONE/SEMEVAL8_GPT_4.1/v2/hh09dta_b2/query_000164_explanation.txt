@@ -1,0 +1,1 @@
+The prediction returns 61 household heads with an average age of 49.84, versus 55 and 50.22 in the gold answer. Heads with a zero electronic-device value were kept in the group, which lowers the overall average and changes both the count above it and their average age.

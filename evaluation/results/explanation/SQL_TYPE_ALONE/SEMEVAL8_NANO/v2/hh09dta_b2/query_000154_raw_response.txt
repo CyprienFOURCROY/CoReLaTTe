@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The predicted number of pairs (188) is far below the gold value (3042). Pairs were built within the same household instead of within the same state, so most valid (A, B) combinations are missing."
+}

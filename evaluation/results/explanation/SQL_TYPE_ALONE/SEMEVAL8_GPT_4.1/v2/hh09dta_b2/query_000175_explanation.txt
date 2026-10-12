@@ -1,0 +1,1 @@
+The prediction returns four states (Durango 131, Sinaloa 127, Jalisco 104, Nuevo León 101) instead of the two in the gold answer (Durango 113, Sinaloa 108). Households answering 'unsafe' were counted as safe, which inflates the counts and brings two extra states above the 100-household threshold.

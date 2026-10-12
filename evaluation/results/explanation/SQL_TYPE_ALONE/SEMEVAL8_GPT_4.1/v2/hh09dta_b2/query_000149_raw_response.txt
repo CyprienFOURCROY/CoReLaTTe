@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The gold count is 0, but the prediction returns 12 households. Households with a member aged 60+ OR a member under 15 were accepted instead of requiring both age groups."
+}

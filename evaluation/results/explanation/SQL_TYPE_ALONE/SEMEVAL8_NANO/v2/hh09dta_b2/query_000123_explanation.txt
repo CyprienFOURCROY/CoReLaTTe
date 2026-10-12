@@ -1,0 +1,1 @@
+The gold answer has one state (5.0 with 3 households), but the prediction returns three states (5.0: 6, 10.0: 5, 26.0: 4). The motor-vehicle ownership condition was left out, so more households qualify and extra states appear above the average.

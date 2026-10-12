@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The prediction returns fewer households than the gold answer (only those with 2 or more incidents; gold has 172 households including those with 1). The reference average was computed over all households instead of over households with no shock, which raises the threshold and drops many qualifying households."
+}

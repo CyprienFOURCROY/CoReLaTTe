@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The gold answer is 0 qualifying households (and 0 producing canned goods), whereas the prediction reports 47 and 9. The year condition was reversed ('2005 or later' instead of 'since 2005 or earlier'), so households that should be excluded are counted."
+}

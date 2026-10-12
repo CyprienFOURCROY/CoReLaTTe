@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The predicted count (1) is lower than the gold count (3). The prediction required every household member to be 60 or older instead of at least one, which wrongly removes households."
+}

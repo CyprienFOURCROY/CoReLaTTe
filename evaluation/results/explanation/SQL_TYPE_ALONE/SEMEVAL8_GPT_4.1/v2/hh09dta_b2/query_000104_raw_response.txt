@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The predicted count (3) does not match the gold count (2). The reference debt average was computed over every Oaxaca household with a recorded debt, not only those with a 25-54-year-old, so the threshold is wrong and an extra household passes it."
+}

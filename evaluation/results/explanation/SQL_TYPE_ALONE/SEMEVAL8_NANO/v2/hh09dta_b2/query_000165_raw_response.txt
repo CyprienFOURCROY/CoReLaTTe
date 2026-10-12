@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The prediction has the same groups as the gold answer, but the average debts are lower and the household counts higher in every group (e.g. state 3.0 / nna01 1.0: 105300.0 over 3 households instead of 135000.0 over 2). The overall mean debt was computed over all indebted households instead of only the households with a disease or accident, so the cut-off is wrong."
+}

@@ -1,0 +1,1 @@
+The predicted count (29) does not match the gold count (24). The prediction compares each state's average age with the mean of the state averages rather than the overall average age of interviewed individuals, so a different set of states qualifies and the household count is overstated.

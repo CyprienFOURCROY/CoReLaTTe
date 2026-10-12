@@ -1,0 +1,1 @@
+The prediction keeps only households with 3 or more incidents, while the gold answer also includes households with 2 incidents (gold has 38 rows). The robbery average used as threshold was computed among indebted households instead of among all households with any robbery, which raises the cut-off and removes qualifying households.

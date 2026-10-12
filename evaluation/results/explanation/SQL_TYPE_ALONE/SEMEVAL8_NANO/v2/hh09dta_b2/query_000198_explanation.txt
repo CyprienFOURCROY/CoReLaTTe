@@ -1,0 +1,1 @@
+The prediction returns 9 states with counts roughly three times larger than the gold counts, and states 20.0 and 26.0 are missing. Households were joined with every device-owning member without de-duplication, so each household is counted several times and the average cut-off moves.

@@ -1,0 +1,1 @@
+The prediction reports an average safety score of 2.44, an average amount received of 1911.11 and 9 households, whereas the gold answer for Oaxaca is an average score of 2.0, an average amount of 4300.0 and 4 households. Households without a positive payment from the program were kept in the group, so the household count is overstated and the average amount is diluted.

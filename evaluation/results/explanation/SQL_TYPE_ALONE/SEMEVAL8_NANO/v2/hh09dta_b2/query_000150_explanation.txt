@@ -1,0 +1,1 @@
+The prediction is empty (header only) whereas the gold answer lists 5 states with their average debt, average age and household counts. The national reference was set to the maximum household debt instead of the national average, so no state average can exceed it.

@@ -1,0 +1,1 @@
+The gold answer is empty, but the prediction returns 26750.0. Households with a member aged 60+ OR a member under 30 were kept instead of requiring both, so a value is produced for a group that should be empty.

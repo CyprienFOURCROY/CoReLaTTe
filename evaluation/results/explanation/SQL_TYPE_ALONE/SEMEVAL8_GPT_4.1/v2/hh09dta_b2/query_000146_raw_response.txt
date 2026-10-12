@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The predicted count (4) is higher than the gold count (2). The prediction did not require a positive directly received amount, so households that participated in the program without receiving money were counted."
+}

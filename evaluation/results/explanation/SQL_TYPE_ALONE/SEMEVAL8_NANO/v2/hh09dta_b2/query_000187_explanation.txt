@@ -1,0 +1,1 @@
+The prediction returns 5 households while the gold answer has 9; the households that received 9000 and 6000 are missing. The average was computed over all programme recipients instead of only land-using households, which raises the threshold and removes qualifying households.

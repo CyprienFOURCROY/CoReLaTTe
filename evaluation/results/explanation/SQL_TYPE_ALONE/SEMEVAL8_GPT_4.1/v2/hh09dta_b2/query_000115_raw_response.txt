@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The predicted average debt (9100.0) differs from the gold value (8500.0). The household motor-vehicle value was averaged across vehicle-owning members instead of summed, and the below-average cut-off was computed only over households that also have a recorded debt instead of over all households with a vehicle value, so a different set of households is retained."
+}

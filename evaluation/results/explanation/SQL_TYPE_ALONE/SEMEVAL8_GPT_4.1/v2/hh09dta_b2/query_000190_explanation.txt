@@ -1,0 +1,1 @@
+KeyError: "['entidad'] not in index"

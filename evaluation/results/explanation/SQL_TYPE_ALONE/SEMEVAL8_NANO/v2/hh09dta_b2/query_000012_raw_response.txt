@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The averages match the gold answer state by state, but the prediction does not include the number of households per state that the question explicitly asks for (the gold answer has a 'households' column). The output omits a required column, so it is incomplete."
+}

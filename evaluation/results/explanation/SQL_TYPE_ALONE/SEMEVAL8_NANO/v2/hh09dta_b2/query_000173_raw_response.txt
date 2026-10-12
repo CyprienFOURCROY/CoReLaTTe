@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The denominators match the gold answer, but the numerators equal the denominators in every state (e.g. state 20.0: 53 instead of 31). The condition that at least one member owns a domestic appliance was left out, so every household with a death and an adult is counted."
+}

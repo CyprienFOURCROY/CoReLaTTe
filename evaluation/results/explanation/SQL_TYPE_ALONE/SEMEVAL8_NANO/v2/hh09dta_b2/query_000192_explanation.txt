@@ -1,0 +1,1 @@
+The prediction is empty (header only), while the gold answer contains household 005160AP00 with 1000.0 eggs. The average was computed among the Oaxaca households only and a strict comparison was used, so the single household that reaches the national average is not returned.

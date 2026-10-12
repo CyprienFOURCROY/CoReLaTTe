@@ -1,0 +1,1 @@
+The predicted average (3254.9) differs from the gold value (6097.67). Washing-machine/stove values were averaged at the member-record level instead of being summed per household first, so both the reference average and the final average are computed on the wrong unit.

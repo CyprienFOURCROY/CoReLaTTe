@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The predicted average (4350.0) differs from the gold value (3800.0). The reference average of agricultural-worker expense was taken over all plot-using households in the dataset instead of Oaxaca plot-using households, so a different set of households is kept before averaging device values."
+}

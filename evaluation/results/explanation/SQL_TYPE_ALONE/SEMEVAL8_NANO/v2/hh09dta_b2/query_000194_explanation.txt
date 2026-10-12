@@ -1,0 +1,1 @@
+NameError: name 'df_nna' is not defined

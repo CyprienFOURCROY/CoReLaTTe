@@ -1,0 +1,4 @@
+{
+  "answer": "no",
+  "explanation": "The predicted count (187) is far above the gold count (2). Answers 1 and 2 of 'Feel safe at home?' (very safe and safe) were treated as unsafe and every senior member was counted instead of distinct households, so the figure is both mis-defined and inflated."
+}

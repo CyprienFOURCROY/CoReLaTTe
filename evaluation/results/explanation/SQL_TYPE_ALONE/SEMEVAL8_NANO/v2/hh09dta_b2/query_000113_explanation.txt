@@ -1,0 +1,1 @@
+The prediction is for state 15.0 (264 valid answers, 31 unsafe) while the gold answer is for Oaxaca, state 20.0 (215 valid answers, 15 unsafe). The wrong state code was used for Oaxaca, so both the state and the counts are incorrect.
