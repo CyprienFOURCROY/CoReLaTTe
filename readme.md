@@ -118,13 +118,13 @@ src/
 │   └── Corelatte/
 │       └── QueryGeneration/
 │           ├── SQL_TYPE_ALONE/
-│           ├── ML_ALONE/
-│           └── SQL_TYPE_ML/
+│           
+│           
 │
 ├── pipeline/
 │   ├── SQL_TYPE_ALONE/
-│   └── ML_ALONE/
-│   └── ML_ALONE/
+│   
+│   
 │
 └── evaluation/
 ```
